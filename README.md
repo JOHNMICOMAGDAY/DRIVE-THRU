@@ -1,1 +1,1 @@
-# DRIVE-THRU
+# DRIVE-THRU--We have used queueing on our system and we use also (FIFO) First in first out. We followed the primary function of it as we stored data in a proper queueing manner, inserting customers first-in and deleting customer's data first-out. Though, we didn't apply the code on our system, but still, our system operates like it has one.
