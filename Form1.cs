@@ -1,4 +1,11 @@
-﻿using System;
+//Title: Drive Thru
+//Description: We have used queueing on our system. We followed the primary function of it as we stored data in a proper queueing manner, inserting customers first-in and deleting customer's data first-out.Though, we didn't apply the code on our system, but still, our system operates like it has one.
+//Programmers:
+//1. John Mico Magday
+//2. Paulo Padre
+//3. Prince Shane Frances
+//Date Submitted: October 29 2022
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
